@@ -1,0 +1,1 @@
+	<talkaction words="/cast" event="script" value="cast.lua"/>
